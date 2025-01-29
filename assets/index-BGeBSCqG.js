@@ -20803,8 +20803,8 @@ const scrollTo = (_e, _, et, tt) => {
       }),
     }),
   dataSocials = [
-    { title: "twitter", href: "https://twitter.com/", Icon: IconX },
-    { title: "telegram", href: "https://t.me/", Icon: IconTelegram },
+    { title: "twitter", href: "https://x.com/ithaca_ai", Icon: IconX },
+    { title: "telegram", href: "https://t.me/ithaca_ai", Icon: IconTelegram },
   ],
   Policy$1 = "_Policy_nrirh_1",
   styles$c = { Policy: Policy$1 };
