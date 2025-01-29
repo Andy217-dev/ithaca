@@ -40250,7 +40250,7 @@ const IconLogo = ({ className: _e }) =>
               className: styles$4.ecosystemPerspectiveText,
               children: [
                 jsxRuntimeExports.jsx("h4", {
-                  children: "An Option trading protocol",
+                  children: "An Option AI trading protocol",
                 }),
                 jsxRuntimeExports.jsx("br", {}),
                 window.innerWidth > 1024 && jsxRuntimeExports.jsx("br", {}),
